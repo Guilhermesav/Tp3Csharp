@@ -1,0 +1,11 @@
+C:\Users\PICHAU\source\repos\Tp3Csharp\Tp3Csharp\bin\Debug\netcoreapp3.1\Tp3Csharp.exe
+C:\Users\PICHAU\source\repos\Tp3Csharp\Tp3Csharp\bin\Debug\netcoreapp3.1\Tp3Csharp.deps.json
+C:\Users\PICHAU\source\repos\Tp3Csharp\Tp3Csharp\bin\Debug\netcoreapp3.1\Tp3Csharp.runtimeconfig.json
+C:\Users\PICHAU\source\repos\Tp3Csharp\Tp3Csharp\bin\Debug\netcoreapp3.1\Tp3Csharp.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\Tp3Csharp\Tp3Csharp\bin\Debug\netcoreapp3.1\Tp3Csharp.dll
+C:\Users\PICHAU\source\repos\Tp3Csharp\Tp3Csharp\bin\Debug\netcoreapp3.1\Tp3Csharp.pdb
+C:\Users\PICHAU\source\repos\Tp3Csharp\Tp3Csharp\obj\Debug\netcoreapp3.1\Tp3Csharp.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\Tp3Csharp\Tp3Csharp\obj\Debug\netcoreapp3.1\Tp3Csharp.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\Tp3Csharp\Tp3Csharp\obj\Debug\netcoreapp3.1\Tp3Csharp.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\Tp3Csharp\Tp3Csharp\obj\Debug\netcoreapp3.1\Tp3Csharp.dll
+C:\Users\PICHAU\source\repos\Tp3Csharp\Tp3Csharp\obj\Debug\netcoreapp3.1\Tp3Csharp.pdb
